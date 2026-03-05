@@ -25,7 +25,7 @@ Relatório de Business Intelligence focado em análise de vendas globais e segme
 ## <a name="o-projeto"></a> 📖 1. O Projeto
 Análise exploratória e descritiva dos dados de vendas da **UK Merch**, uma empresa de varejo com operações globais. O objetivo central foi transformar um dataset bruto de transações em um **relatório executivo dinâmico** para suporte à decisão estratégica em marketing e logística.
 
-![Demonstração do Dashboard](gif_relatorio_vendas_&_segmentacao_clientes.gif)\
+![Demonstração do Dashboard](img_sales-report-customer-segmentation/seu_arquivo_aqui.gif)
 
 
 ### 🔗 Acesso Rápido ao Projeto
@@ -95,7 +95,7 @@ A análise revelou um volume total de **18.524 compras** realizadas por **4.334 
 
 ### 📊 Performance de Retenção e Aquisição (Reino Unido)
 
-![Análise de Métricas - Retenção e Novos Clientes](img2_metricas1.png)
+![Análise de Métricas](img_sales-report-customer-segmentation/img2_metricas1.png)
 
 **Visão Geral e Desempenho Financeiro (2021)**
 
@@ -118,7 +118,7 @@ O dashboard centraliza os indicadores de sucesso da rede, destacando um faturame
 
 ### 📊 Análise Geográfica e Eficiência de Mercado
 
-![Análise de Faturamento e Mercado Global](img3_metricas2.png)
+![Panorama Global](img_sales-report-customer-segmentation/img3_metricas2.png)
 
 **Detalhamento da Performance Global e Oportunidades**
 
@@ -143,7 +143,7 @@ Utilização do modelo de Recência, Frequência e Valor para categorizar a base
 
 ### 🧠 Inteligência de Segmentação e Análise de Pareto
 
-![Segmentação de Clientes e Análise RFM](img4_metricas3_&_segmentacao.png)
+![Inteligência de Segmentação](img_sales-report-customer-segmentation/img4_metricas3_&_segmentacao.png)
 
 **Detalhamento da Classificação de Clientes (Modelo RFM)**
 
@@ -160,7 +160,7 @@ Esta seção do dashboard aplica inteligência analítica para categorizar a bas
 
 ## <a name="recomendacoes"></a> 🚀 10. Recomendações Estratégicas
 
-![Segmentação e Plano de Ação](img5_segmentacao_recomendacoes.png)
+![Recomendações](img_sales-report-customer-segmentation/img5_segmentacao_recomendacoes.png)
 
 Com base na inteligência de dados extraída do modelo RFM e na análise de performance global, as seguintes diretrizes estratégicas foram estabelecidas:
 
