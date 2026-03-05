@@ -25,7 +25,7 @@ Relatório de Business Intelligence focado em análise de vendas globais e segme
 ## <a name="o-projeto"></a> 📖 1. O Projeto
 Análise exploratória e descritiva dos dados de vendas da **UK Merch**, uma empresa de varejo com operações globais. O objetivo central foi transformar um dataset bruto de transações em um **relatório executivo dinâmico** para suporte à decisão estratégica em marketing e logística.
 
-![Demonstração do Dashboard](img_sales-report-customer-segmentation/seu_arquivo_aqui.gif)
+![Demonstração do Dashboard](img_sales-report-customer-segmentation/gif_relatorio_vendas_segmentacao_clientes.gif)
 
 
 ### 🔗 Acesso Rápido ao Projeto
